@@ -19,3 +19,8 @@ Benefits:
 
 ![alt text](https://i.udemycdn.com/course/750x422/1149408_34fc_4.jpg "Logo Title Text 1")
 
+# Methodology
+
+Hardware/Software Partitioning algorithm to achieve acceleration. 
+
+
